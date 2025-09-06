@@ -13,9 +13,9 @@ This website has 5 databases that we can use for analysis. These databases are: 
 5. website_sessions: Records all customer activities on the website and company campaigns.  
 <br>
 <br>
-There are some objectives:  
+There are some objectives:<br> 
 1. Which traffic source drives the most visitors to the website?
-
+<br>
    <img width="643" height="530" alt="case 1" src="https://github.com/user-attachments/assets/c519791c-5980-4f70-8cc2-b196dec4293b"/>
    <br>
    The data shows that Gsearch Nonbrand was the top traffic source, generating a total of 55,487 sessions
