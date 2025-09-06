@@ -16,37 +16,37 @@ This website has 5 databases that we can use for analyzing. These Databases are:
 There are some objectives:  
 1. Which traffic source drives the most visitors to the website?
 
-   <img width="643" height="530" alt="case 1" src="https://github.com/user-attachments/assets/c519791c-5980-4f70-8cc2-b196dec4293b" />
+   <img width="643" height="530" alt="case 1" src="https://github.com/user-attachments/assets/c519791c-5980-4f70-8cc2-b196dec4293b"/>
    <br>
    From this table, we can conclude that The Highest traffic source is gsearch and for the campaign is nonbrand, with 55487 total sessions
    <br>
 2. Analyze the weekly trend of session volume starting from January 1, 2014 and Which date has the highest sessions
 
-   <img width="664" height="523" alt="Screenshot (283)" src="https://github.com/user-attachments/assets/2ed5548b-2cbd-47a8-a3a6-cf75c6f3cf24" />  
+   <img width="664" height="523" alt="Screenshot (283)" src="https://github.com/user-attachments/assets/2ed5548b-2cbd-47a8-a3a6-cf75c6f3cf24"/>  
 <br>
    It shows that in 12 May 2025, The Highest session volume in week 20 from 1st January 2014 <br>
    <br>
 3. Which Product Sold The Most during peak sessions on website, 12 may 2014
-
-   <img width="653" height="543" alt="Screenshot (284)" src="https://github.com/user-attachments/assets/089f7a34-f622-48f2-895f-27381ac77aef" />
+<br>
+   <img width="653" height="543" alt="Screenshot (284)" src="https://github.com/user-attachments/assets/089f7a34-f622-48f2-895f-27381ac77aef"/>
    <br>
    The most sol product during peak session is **The Original Mr. Fuzzy**
 <br>
 4. Calculate the conversion rate from sessions to orders from 01 January 2014 until 30 June 2014. If CVR exceeds 5%, the advertising budget will be increased  
-
-    <img width="298" height="65" alt="Screenshot (287)" src="https://github.com/user-attachments/assets/665814b9-90ec-4888-b6bd-83c69dd293af" />
+<br>
+    <img width="298" height="65" alt="Screenshot (287)" src="https://github.com/user-attachments/assets/665814b9-90ec-4888-b6bd-83c69dd293af"/>
    <br>
    The conversion rate from January 1, 2014, to June 30, 2014, is 6.98%. It exceeds the target metric, so we will increased the ads budget
    <br>
 5. Calculate the conversion rate by device type starting from June 1, 2014
-
-    <img width="1071" height="355" alt="case 5" src="https://github.com/user-attachments/assets/2d31015d-5dc0-43c0-8a66-d449251ca273" />
+   <br>
+ <img width="1071" height="355" alt="case 5" src="https://github.com/user-attachments/assets/2d31015d-5dc0-43c0-8a66-d449251ca273"/> <br>
    <br>
    The majority of users who purchased after visiting the website were on desktop, with a conversion rate of 8.72%
    <br>
 6. Calculate The Bounce Rate
-
-   <img width="349" height="60" alt="Screenshot (288)" src="https://github.com/user-attachments/assets/56456aae-6cf9-4c01-832e-9e1e77340d83" />
+   <br>
+   <img width="349" height="60" alt="Screenshot (288)" src="https://github.com/user-attachments/assets/56456aae-6cf9-4c01-832e-9e1e77340d83"/>
     <br>
     Bounce rate is 39.58%, below 50%. So, we dont need to create new landpage or update website
     <br>
