@@ -52,10 +52,10 @@ There are some objectives:<br>
    <br>
     <br>
 **CONCLUSION**<br>
-1. The traffic source “Gsearch” with the “Nonbrand” campaign generated the highest number of sessions. Continue investing in and scaling this campaign to maximize visibility and product promotion.<br>
-2. From January 1, 2014, to mid-year, the website recorded peak sessions on May 12, 2014, during which 22 units of The Original Mr. Fuzzy were sold. Leverage peak traffic periods with targeted promotions to increase product sales further.<br>
-3. The conversion rate was 6.98%, exceeding the target. Most purchases were made via desktop rather than mobile. Increase the advertising budget to capture more conversions and investigate mobile performance issues to reduce the gap.<br>
-4. The website’s bounce rate is 39.58%, below the 50% benchmark. No immediate changes to the website design or A/B testing are necessary. Focus instead on optimizing campaigns and improving mobile user experience. <br>
+1. The traffic source “Gsearch” with the “Nonbrand” campaign generated the highest number of sessions. We can continue investing in and scaling this campaign to maximize visibility and product promotion.<br>
+2. From January 1, 2014, to mid-year, the website recorded peak sessions on May 12, 2014, during which 22 units of The Original Mr. Fuzzy were sold. Leverage peak traffic periods with targeted promotions will be better to increase product sales further.<br>
+3. The conversion rate was 6.98%, exceeding the target. Most purchases were made via desktop rather than mobile. We can increase the advertising budget to capture more conversions and investigate mobile performance issues to reduce the gap.<br>
+4. The website’s bounce rate is 39.58%, below the 50% benchmark. No immediate changes to the website design or A/B testing are necessary. The next plan is to focus instead on optimizing campaigns and improving mobile user experience. <br>
 <br>
 <br>
 This is my first SQL portfolio project, and I am excited to share it. I welcome any feedback or suggestions for improvement. Thank you for reading, and I hope this analysis provides valuable insights!
